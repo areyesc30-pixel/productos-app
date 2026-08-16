@@ -86,3 +86,19 @@ button {
 button:hover {
     background-color: #376fd3;
 }
+
+.campo-anio {
+    position: relative;
+}
+
+.campo-anio span {
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    color: #b8bec7;
+    font-size: 18px;
+}
+
+.campo-anio input {
+    padding-top: 30px;
+}
